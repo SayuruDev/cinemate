@@ -1,5 +1,7 @@
 export const MovieList = () => {
   return (
-    <div>MovieList</div>
+    <div className="text-9xl">
+      MovieList
+    </div>
   )
 }
